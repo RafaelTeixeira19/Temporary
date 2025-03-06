@@ -1,1 +1,1 @@
-# Temporary
+# Jupyter Notebooks for Master thesis
